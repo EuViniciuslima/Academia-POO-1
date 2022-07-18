@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Teste1
+comment1.params=num
+comment1.target=java.util.ArrayList\ criarMetricas(int)
+comment2.params=num
+comment2.target=java.util.ArrayList\ criarClientes(int)
+comment3.params=
+comment3.target=Academia\ montarTudo()
+comment4.params=
+comment4.target=Academia\ criarAcademia()
+numComments=5
